@@ -3,7 +3,7 @@ pragma solidity ^0.4.21;
 import "./ERC721.sol";
 import "./ERC721BasicToken.sol";
 import "../../introspection/ERC165.sol";
-import "zos-lib/contracts/migrations/Migratable.sol";
+import "./Migratable.sol";
 
 
 /**
